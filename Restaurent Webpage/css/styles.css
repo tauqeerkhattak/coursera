@@ -4,6 +4,16 @@ body {
 	background-color: #66122f;
 	font-family: 'Raleway', sans-serif;
 }
-h1 {
-	text-align: center;
+
+#header-nav {
+	background-color: #f6b319;
+	border: 0;
+	border-radius: 0;
+}
+
+#logo-img {
+	background: url("coursera\Restaurent Webpage\restaurant-logo.png") no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
 }
